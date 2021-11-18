@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evandermeer84
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java App Development
-- 💞️ I’m looking to collaborate on projects about gender equality
+- 💞️ I’m looking to collaborate on projects about gender equality and finance
 - 📫 How to reach me e.k.vandermeer84@gmail.com
 
 <!---
